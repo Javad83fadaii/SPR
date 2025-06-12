@@ -8,6 +8,7 @@ while True:
         print("\n")
         print("Thank You")
         print("*"*40)
+        
     elif int(input("Enter your choice: ")) == 2:
         text_user = input("Enter your text: ")
         for c in text_user:
